@@ -1,1 +1,0 @@
-hell.c this is the test for rm.
